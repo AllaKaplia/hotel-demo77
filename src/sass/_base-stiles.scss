@@ -1,0 +1,40 @@
+// 
+:root {
+    --accent-background: #FFFDEE;
+    --footer-background: #000000;
+    --menu-background: #F0ECD6;
+    --text-color-bg: #ffffff;
+    --accent-text-color: #5F5F5F;
+    --style-text-color: #C79002;
+    --title-text-color:  #494848;
+    --color-text-btn: #F3C653;
+
+}
+
+body {
+    background-color: var(--accent-background);
+    
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+ margin-top: 0;
+ margin-bottom: 0;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
